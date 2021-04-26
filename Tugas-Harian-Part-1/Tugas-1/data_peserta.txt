@@ -1,0 +1,6 @@
+Data Peserta Sanbercode Bootcamp ReactJS
+1. Nama: Iim Abdul Mafahir
+2. Email: iim_mafahir@apps.ipb.ac.id
+3. Sistem Operasi yang digunakan: windows 10
+4. Akun Gitlab/Github: https://github.com/iim-am
+5. Akun Telegram: Iim Mafahir
