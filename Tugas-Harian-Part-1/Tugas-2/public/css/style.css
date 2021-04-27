@@ -24,6 +24,10 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
 }
 
 nav {
@@ -52,9 +56,13 @@ nav a {
 
 nav img {
     float: left;
-    height: 100px;
+    widht: 100px;
 }
 
 pre {
     font-size: 18px;
+}
+
+body {
+    margin: 0;
 }
