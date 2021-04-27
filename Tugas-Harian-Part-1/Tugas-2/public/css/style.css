@@ -1,0 +1,60 @@
+header {
+    background-color: white;
+}
+
+article {
+    background-color: white;
+    width: 600px;
+    margin: 10px auto;
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+section {
+    background-color: white;
+    width: 1200px;
+    margin: 30px auto;
+    padding: 30px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    background-color: white;
+    padding: 5px;
+    text-align: right;
+    position: sticky;
+    top: 0;
+    overflow: auto;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+    width: 10px;
+}
+
+nav a {
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+    color: black;
+    margin-top: 30px;
+}
+
+nav img {
+    float: left;
+    height: 100px;
+}
+
+pre {
+    font-size: 18px;
+}
