@@ -55,14 +55,14 @@ jenis kelamin, hobi dan tahun lahir (var arrayDaftarPeserta harus di olah menjad
 */
 console.log('------------Jawaban Soal No 3---------------')
 var arrayDaftarPeserta = ["John Doe", "laki-laki", "baca buku" , 1992]
-var arrayDaftarPesertaObj = {
-    nama : "John Doe",
-    jenisKelamin : "laki-laki",
-    hobi : "baca buku",
-    tahunLahir : 1992
-}
+var objectDaftarPeserta = {}
 
-console.log(arrayDaftarPesertaObj);
+objectDaftarPeserta.name = arrayDaftarPeserta[0]
+objectDaftarPeserta.jenisKelamin = arrayDaftarPeserta[1]
+objectDaftarPeserta.hobby = arrayDaftarPeserta[2]
+objectDaftarPeserta.lahir = arrayDaftarPeserta[3]
+
+console.log(objectDaftarPeserta)
 
 //soal 4
 /*
