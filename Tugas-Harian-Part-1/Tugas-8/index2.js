@@ -8,12 +8,12 @@ var books = [
  
 // Lanjutkan code untuk menjalankan function readBooksPromise 
 var times = 10000;
-var i = 0;
+var iim = 0;
 
-readBooksPromise(times, books[i]).then(function (waktu) {
-  i += 1;
-  readBooksPromise(waktu, books[i]).then(function (waktu2) {
-    i += 1;
-    readBooksPromise(waktu2, books[i]).then(function (waktu3) {});
+readBooksPromise(times, books[iim]).then(function (waktu) {
+  iim += 1;
+  readBooksPromise(waktu, books[iim]).then(function (waktu2) {
+    iim += 1;
+    readBooksPromise(waktu2, books[iim]).then(function (waktu3) {});
   });
 });
