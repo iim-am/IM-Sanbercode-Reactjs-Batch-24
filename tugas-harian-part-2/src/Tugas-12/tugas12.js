@@ -14,8 +14,8 @@ class AkangBuah extends Component{
             {nama: "Strawberry", hargaTotal: 120000, beratTotal: 6000}
           ],
      inputName : "",
-     inputHarga : "",
-     inputBerat : 0,
+     inputHarga : 0,
+     inputBerat : 2000,
      /// array tidak punya index -1
      indexOfForm: -1    
     }
