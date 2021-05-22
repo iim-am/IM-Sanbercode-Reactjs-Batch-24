@@ -50,7 +50,6 @@ export default function App() {
               <Route path="/tugas15">
                 <Tugas15 />
                 <Tabel1/>
-                
 
               </Route>
             
