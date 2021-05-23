@@ -1,0 +1,43 @@
+.Daftar-Buku {
+  background-color: white;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+h1 {
+  text-align: center;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+table {
+  border-collapse: collapse;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.ellipsis {
+  max-width: 200px;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+form {
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+  margin-right: 10px;
+}
