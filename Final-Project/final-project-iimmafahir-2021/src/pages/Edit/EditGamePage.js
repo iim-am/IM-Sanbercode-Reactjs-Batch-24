@@ -52,7 +52,7 @@ export default function EditGamePage({match}) {
 		} = gameData;
 
 		axios.put(
-				`http://backendexample.sanbercloud.com/api/data-game/${match.params.id}`,
+				`https://backendexample.sanbersy.com/api/data-game/${match.params.id}`,
 				{
 					name,
 					genre,

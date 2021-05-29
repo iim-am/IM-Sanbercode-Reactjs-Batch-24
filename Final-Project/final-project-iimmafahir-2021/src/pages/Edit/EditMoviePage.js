@@ -60,7 +60,7 @@ export default function EditMoviePage({match}) {
 
 		axios
 			.put(
-				`http://backendexample.sanbercloud.com/api/data-movie/${match.params.id}`,
+				`https://backendexample.sanbersy.com/api/data-movie/${match.params.id}`,
 				{title, description, year, duration, genre, rating, image_url},
 				{headers: {Authorization: `Bearer ${user.token}`}}
 			)

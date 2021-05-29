@@ -64,7 +64,7 @@ export default function AddGame() {
 		} = gameData;
 
 		axios.post(
-				`http://backendexample.sanbercloud.com/api/data-game`,
+				`https://backendexample.sanbersy.com/api/data-game`,
 				{
 					name,
 					genre,

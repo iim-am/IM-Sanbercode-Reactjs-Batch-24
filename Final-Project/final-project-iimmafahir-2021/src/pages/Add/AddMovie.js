@@ -78,7 +78,7 @@ export default function AddMovie() {
 		} = movieData;
 
 		axios.post(
-				`http://backendexample.sanbercloud.com/api/data-movie`,
+				`https://backendexample.sanbersy.com/api/data-movie`,
 				{title, description, year, duration, genre, rating, image_url},
 				{headers: {Authorization: `Bearer ${user.token}`}}
 			)
