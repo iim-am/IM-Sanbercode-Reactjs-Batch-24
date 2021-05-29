@@ -184,7 +184,7 @@ export default function MyAccount() {
 							required
 							id="new_confirm_password"
 							name="new_confirm_password"
-							label="Confirm new password"
+							label="New Confirm password"
 							value={input.new_confirm_password}
 							variant="outlined"
 							type="password"

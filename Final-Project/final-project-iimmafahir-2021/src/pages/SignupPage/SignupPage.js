@@ -159,7 +159,7 @@ export default function SignupPage() {
 								variant="outlined"
 								fullWidth
 								id="username"
-								label="Username"
+								label="Name"
 								name="name"
 								autoComplete="username"
 								onChange={handleChange}
@@ -178,7 +178,7 @@ export default function SignupPage() {
 								variant="outlined"
 								fullWidth
 								id="email"
-								label="Email Address"
+								label="Email"
 								type="email"
 								name="email"
 								autoComplete="email"
