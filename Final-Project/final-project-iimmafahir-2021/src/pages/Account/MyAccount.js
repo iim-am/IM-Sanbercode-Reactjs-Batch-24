@@ -132,7 +132,7 @@ export default function MyAccount() {
 							fullWidth
 							disabled
 							id="username"
-							label="Username"
+							label="Name"
 							defaultValue={user.name}
 							variant="outlined"
 						/>
