@@ -7,7 +7,7 @@ Repository ini berisi hasil dari tugas selama mengikuti kelas front end devs di 
 
 ### Basic html & CSS Basic Responsive Web Design
 - [Membuat Html - About](https://github.com/iim-am/IM-Sanbercode-Reactjs-Batch-24/blob/main/Tugas-Harian-Part-1/Tugas-2/about.html): Membuat file about.html dengan format yang sudah disesuaikan dengan perintah pada tugas.
-- Membuat Html - Contact](https://github.com/iim-am/IM-Sanbercode-Reactjs-Batch-24/blob/main/Tugas-Harian-Part-1/Tugas-2/contact.html): Membuat file contact.html dengan format yang sudah disesuaikan dengan perintah pada tugas.
+- [Membuat Html - Contact](https://github.com/iim-am/IM-Sanbercode-Reactjs-Batch-24/blob/main/Tugas-Harian-Part-1/Tugas-2/contact.html): Membuat file contact.html dengan format yang sudah disesuaikan dengan perintah pada tugas.
 - [Membuat Html - Index ](https://github.com/iim-am/IM-Sanbercode-Reactjs-Batch-24/blob/main/Tugas-Harian-Part-1/Tugas-2/index.html): Membuat file index.html, sesuai dengan tugas yang diberikan oleh pihak sanbercode pada materi html  pada bagian ini.
 - [Membuat CSS - style ](https://github.com/iim-am/IM-Sanbercode-Reactjs-Batch-24/blob/main/Tugas-Harian-Part-1/Tugas-2/public/css/style.css): Membuat file style.css, sesuai dengan tugas yang diberikan oleh pihak sanbercode pada materi css pada bagian ini.
 
