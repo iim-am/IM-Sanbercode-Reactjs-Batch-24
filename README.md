@@ -3,7 +3,10 @@
 Repository ini berisi hasil dari tugas selama mengikuti kelas front end devs di sanbercode.
 Kelas ini berlangsung selama 1 bulan full. 
 
-Berikut merupakan sertifikat hasil dari mengikuti kelas Front end devs.
+## Project Akhir
+Pada project disini kami diminta untuk membuat sebuah website berbasis react dengan data yang sudah di tentukan oleh pihak sanbercode. 
+hasil dari project akhir ini bisa dilihat di link sebagai berikut :
+https://nifty-goldberg-86df6d.netlify.app
 
 ## Sertifikat Front End Devs
 [Certified-Front End Devs Sanbercode](https://github.com/iim-am/IM-Sanbercode-Reactjs-Batch-24/blob/main/sertifikat%20sanbercode%20front%20end%20devs.pdf) 
