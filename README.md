@@ -4,7 +4,7 @@ Repository ini berisi hasil dari tugas selama mengikuti kelas front end devs di 
 Kelas ini berlangsung selama 1 bulan full dari 26 April sampai dengan 28 Mei 2021.
 
 ## Project Akhir
-Pada project disini kami diminta untuk membuat sebuah website berbasis react dengan data yang sudah di tentukan oleh pihak sanbercode. 
+Pada project ini kami diminta untuk membuat sebuah website berbasis react dengan API yang sudah di tentukan oleh pihak sanbercode. 
 hasil dari project akhir ini bisa dilihat di link sebagai berikut : <br>
 https://nifty-goldberg-86df6d.netlify.app
 
