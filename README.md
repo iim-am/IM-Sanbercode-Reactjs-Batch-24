@@ -5,7 +5,7 @@ Kelas ini berlangsung selama 1 bulan full.
 
 ## Project Akhir
 Pada project disini kami diminta untuk membuat sebuah website berbasis react dengan data yang sudah di tentukan oleh pihak sanbercode. 
-hasil dari project akhir ini bisa dilihat di link sebagai berikut :
+hasil dari project akhir ini bisa dilihat di link sebagai berikut : <br>
 https://nifty-goldberg-86df6d.netlify.app
 
 ## Sertifikat Front End Devs
