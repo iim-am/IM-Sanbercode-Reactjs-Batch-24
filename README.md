@@ -1,7 +1,7 @@
 # IM-Sanbercode-Reactjs-Batch-24
 
 Repository ini berisi hasil dari tugas selama mengikuti kelas front end devs di sanbercode.
-Kelas ini berlangsung selama 1 bulan full. 
+Kelas ini berlangsung selama 1 bulan full dari 26 April sampai dengan 28 Mei 2021.
 
 ## Project Akhir
 Pada project disini kami diminta untuk membuat sebuah website berbasis react dengan data yang sudah di tentukan oleh pihak sanbercode. 
